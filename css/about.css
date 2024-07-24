@@ -1,0 +1,80 @@
+
+/* about style*/
+.bakery{
+    margin-top: 100px;
+}
+.bakery-title{
+    text-align: center;
+}
+.bakery-title img{
+    width:180px;
+}
+.bakery-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.bakery-content .bekery-content-item{
+    width: 30%;
+    margin: 15px;
+}
+.bakery-title h3{
+    color: #303030;
+    font-size: 30px;
+    font-weight: 400;
+    padding: 20px;
+}
+.bakery-title p{
+    color: #888888;
+    font-size: 17px; 
+    font-weight: 400; 
+}
+.bekery-content-item h5{
+    color: #303030;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px 0;
+}
+.bekery-content-item p{
+    color: #686868;
+    font-size: 17px;
+    font-weight: 400;
+}
+/* numbers section */
+.num{
+    background-color: #8E7754;
+    margin-bottom: -50px;
+    color: #ffff;
+}
+.num-content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+}
+.num-item .item-number{
+    font-size: 52px;
+    font-weight: 400;
+}
+.num-item .item-desc{
+    font-size: 20px;
+    font-weight: 400;
+}
+.num-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.idea-icon{
+    width: 100px;
+    margin-bottom: -20px;
+}
+.numbers-icon{
+    width: 150px;
+    margin-bottom: -20px;
+}
+/* end of number section */

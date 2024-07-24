@@ -1,0 +1,39 @@
+.offer-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+/* header links */
+.offer-links a{
+    color: #fff;
+
+}
+/* end of header links */
+.offers-item{
+    width: 30%;
+    margin: 10px;
+}
+.offer-title{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.underline-border{
+    border-bottom: 1px solid #d8d0d0;
+}
+.offer-text{
+    padding: 20px 0;
+}
+.offer-title h5{
+    color:  #303030;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Alegreya", serif;
+}
+.offer-text p{
+    color: #686868;
+    font-size: 17px;
+    font-weight: 400;
+}
